@@ -1,0 +1,23 @@
+﻿body {
+    font-family: Press Start 2P;
+    background-color: #dff7e5;
+}
+
+.nes-container.is-centered {
+    width: 500px;
+    height: 700px;
+    margin: 50px auto;
+    padding: 10px 15px;
+}
+
+.nes-container.with-title.is-centered > .title {
+    background-color: #dff7e5;
+    font-size: 20px;
+}
+
+.nes-input {
+    margin-bottom: 25px;
+}
+.rego-btn{
+    margin-top: 10px;
+}
